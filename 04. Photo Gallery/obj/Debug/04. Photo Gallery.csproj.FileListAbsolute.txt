@@ -1,0 +1,5 @@
+C:\Projects\ProgrammingFundamendalsExtendedMay2017\CSharpBasicSyntax-MoreExercises\04. Photo Gallery\bin\Debug\_04.Photo_Gallery.exe.config
+C:\Projects\ProgrammingFundamendalsExtendedMay2017\CSharpBasicSyntax-MoreExercises\04. Photo Gallery\bin\Debug\_04.Photo_Gallery.exe
+C:\Projects\ProgrammingFundamendalsExtendedMay2017\CSharpBasicSyntax-MoreExercises\04. Photo Gallery\bin\Debug\_04.Photo_Gallery.pdb
+C:\Projects\ProgrammingFundamendalsExtendedMay2017\CSharpBasicSyntax-MoreExercises\04. Photo Gallery\obj\Debug\_04.Photo_Gallery.exe
+C:\Projects\ProgrammingFundamendalsExtendedMay2017\CSharpBasicSyntax-MoreExercises\04. Photo Gallery\obj\Debug\_04.Photo_Gallery.pdb
