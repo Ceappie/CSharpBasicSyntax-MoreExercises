@@ -1,0 +1,6 @@
+C:\Projects\ProgrammingFundamendalsExtendedMay2017\CSharpBasicSyntax-MoreExercises\07. Training Hall Equipment\bin\Debug\_07.Training_Hall_Equipment.exe.config
+C:\Projects\ProgrammingFundamendalsExtendedMay2017\CSharpBasicSyntax-MoreExercises\07. Training Hall Equipment\bin\Debug\_07.Training_Hall_Equipment.exe
+C:\Projects\ProgrammingFundamendalsExtendedMay2017\CSharpBasicSyntax-MoreExercises\07. Training Hall Equipment\bin\Debug\_07.Training_Hall_Equipment.pdb
+C:\Projects\ProgrammingFundamendalsExtendedMay2017\CSharpBasicSyntax-MoreExercises\07. Training Hall Equipment\obj\Debug\07. Training Hall Equipment.csprojResolveAssemblyReference.cache
+C:\Projects\ProgrammingFundamendalsExtendedMay2017\CSharpBasicSyntax-MoreExercises\07. Training Hall Equipment\obj\Debug\_07.Training_Hall_Equipment.exe
+C:\Projects\ProgrammingFundamendalsExtendedMay2017\CSharpBasicSyntax-MoreExercises\07. Training Hall Equipment\obj\Debug\_07.Training_Hall_Equipment.pdb

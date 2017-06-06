@@ -1,0 +1,6 @@
+C:\Projects\ProgrammingFundamendalsExtendedMay2017\CSharpBasicSyntax-MoreExercises\05. BPM Counter\bin\Debug\_05.BPM_Counter.exe.config
+C:\Projects\ProgrammingFundamendalsExtendedMay2017\CSharpBasicSyntax-MoreExercises\05. BPM Counter\bin\Debug\_05.BPM_Counter.exe
+C:\Projects\ProgrammingFundamendalsExtendedMay2017\CSharpBasicSyntax-MoreExercises\05. BPM Counter\bin\Debug\_05.BPM_Counter.pdb
+C:\Projects\ProgrammingFundamendalsExtendedMay2017\CSharpBasicSyntax-MoreExercises\05. BPM Counter\obj\Debug\05. BPM Counter.csprojResolveAssemblyReference.cache
+C:\Projects\ProgrammingFundamendalsExtendedMay2017\CSharpBasicSyntax-MoreExercises\05. BPM Counter\obj\Debug\_05.BPM_Counter.exe
+C:\Projects\ProgrammingFundamendalsExtendedMay2017\CSharpBasicSyntax-MoreExercises\05. BPM Counter\obj\Debug\_05.BPM_Counter.pdb
